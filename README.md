@@ -1,6 +1,10 @@
-# maxmobility
+# CustomerGeoApp
+A Flutter app featuring user login, customer list with geo-location, and add customer functionality using SQLite.
 
-A new Flutter project.
+## Features
+- Login with validation
+- Customer list from local DB with Google Maps integration
+- Add customer with image and geo-address capture
 
 ## Getting Started
 
